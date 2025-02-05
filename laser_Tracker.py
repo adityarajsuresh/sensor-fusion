@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding:utf-8
-#new commit for feature test
+#deleted the f1 commit code
 import math
 import numpy as np
 from common import *
